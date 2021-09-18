@@ -20,8 +20,8 @@ const Header = () => {
           </div>
         </div>
         <div className="rightheader">
-          <img src="/assets/images/Mockupheader.png" alt="MOCKUP" />
-          <img src="/assets/images/shapsTriangle0.png" alt="shapsTriangle" />
+          <img src="assets/images/Mockupheader.png" alt="MOCKUP" />
+          <img src="assets/images/shapsTriangle0.png" alt="shapsTriangle" />
         </div>
       </section>
     </header>

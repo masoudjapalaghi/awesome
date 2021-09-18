@@ -6,7 +6,7 @@ const Customers = () => {
       <div className="leftCust">
         <span transform="item0">
           <img
-            src="/assets/images/shapsTriangle1.png"
+            src="assets/images/shapsTriangle1.png"
             alt="TriangleCust"
           />
         </span>
@@ -46,7 +46,7 @@ const Customers = () => {
         </p>
       </div>
         <img
-          src="/assets/images/shapsCircle.png"
+          src="assets/images/shapsCircle.png"
           alt="circle"
         />
     </section>

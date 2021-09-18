@@ -20,7 +20,7 @@ const Services = () => {
         <article className="card_articls">
           <span className="icon_cart">
             <img
-              src="/assets/images/icons/design-thinking_featurse.png"
+              src="assets/images/icons/design-thinking_featurse.png"
               alt="Icon"
             />
           </span>
@@ -33,7 +33,7 @@ const Services = () => {
         <article className="card_articls">
           <span className="icon_cart">
             <img
-              src="/assets/images/icons/design-tools_featurse.png"
+              src="assets/images/icons/design-tools_featurse.png"
               alt="Icon"
             />
           </span>
@@ -46,7 +46,7 @@ const Services = () => {
         <article className="card_articls">
           <span className="icon_cart">
             <img
-              src="/assets/images/icons/graphic-design_featurse.png"
+              src="assets/images/icons/graphic-design_featurse.png"
               alt="Icon"
             />
           </span>
@@ -59,7 +59,7 @@ const Services = () => {
         <article className="card_articls">
           <span className="icon_cart">
             <img
-              src="/assets/images/icons/house-design_featurse.png"
+              src="assets/images/icons/house-design_featurse.png"
               alt="Icon"
             />
           </span>

@@ -10,7 +10,7 @@ const FAQ = () => {
 
   return (
     <section className="faq">
-     <img src="/assets/images/shapsTriangle0.png" alt="shapsTriangle1" />
+     <img src="assets/images/shapsTriangle0.png" alt="shapsTriangle1" />
       <header className="header_faq">
         <h2>Frequently Asked Questions</h2>
         <p>

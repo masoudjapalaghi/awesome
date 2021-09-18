@@ -4,7 +4,7 @@ import ButtonLGradint from "../common/btnLinerGradinet";
 const Subscription = () => {
   return (
     <section className="subscription">
-      <img src="/assets/images/shapsSqure.png" alt="shapsSqure" />
+      <img src="assets/images/shapsSqure.png" alt="shapsSqure" />
       <div className="up_subscrip">
         <header>
           <h2>Transparent pricing</h2>

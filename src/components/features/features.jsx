@@ -42,7 +42,7 @@ const Features = () => {
             there in the setting.
           </p>
           <img
-              src="/assets/images/icons/bulb_features1.png"
+              src="assets/images/icons/bulb_features1.png"
               alt="LAMPICONS"
             />
         </div>
@@ -65,7 +65,7 @@ const Features = () => {
               <div className="cart-down-first-layout ">
                 <span>
                   <img
-                    src="/assets/images/icons/dive_features.png"
+                    src="assets/images/icons/dive_features.png"
                     alt="DRIVEICON"
                   />
                   <small></small>
@@ -79,7 +79,7 @@ const Features = () => {
               <div className="cart-down-first-layout cart_tow">
                 <span>
                   <img
-                    src="/assets/images/icons/bulb_features.png"
+                    src="assets/images/icons/bulb_features.png"
                     alt="LAMPICON"
                   />
                   <small></small>
